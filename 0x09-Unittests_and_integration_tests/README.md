@@ -9,4 +9,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 Execute your tests with
 
-``` $ python -m unittest path/to/test_file.py ```
+`$ python -m unittest path/to/test_file.py`
+
+## Author :black_nib:
+
+- **Jhonatan Angarita**
+  [Twitter](https://twitter.com/Alejandro_Angar)
